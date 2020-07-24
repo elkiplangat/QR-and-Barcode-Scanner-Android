@@ -4,4 +4,4 @@ A QR and Barcode scanner for android mobile devices using Firebase Machine Learn
 
 ![screenshot](assets/scr2.png)
 
-![screenshot](assets/scr3.png)
+![screenshot](assets/scr4.png)
